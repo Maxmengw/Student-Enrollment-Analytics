@@ -34,4 +34,4 @@ This comprehensive data analysis project examines student enrollment data from a
 - Developed strategic recommendations
 - Created actionable insights for optimization
 
-[View Full Analysis](analysis.ipynb) | [GitHub Repository](https://github.com/yourusername/student-enrollment-analytics)
+[View Full Analysis](analysis.ipynb) | [GitHub Repository](https://github.com/Maxmengw/Student-Enrollment-Analytics)

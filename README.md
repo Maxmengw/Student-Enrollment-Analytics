@@ -141,5 +141,8 @@ This analysis provides:
 ## Contact
 For questions or collaboration opportunities, please reach out through the portfolio contact information.
 
+## GitHub Repository
+[View Full Project on GitHub](https://github.com/Maxmengw/Student-Enrollment-Analytics)
+
 ---
 *This project demonstrates advanced data analysis skills, business acumen, and strategic thinking capabilities suitable for data science and business intelligence roles.*
