@@ -1,0 +1,29 @@
+title: Student Enrollment Analytics
+description: Comprehensive Data Analysis & Business Intelligence Project
+author: Your Name
+email: your.email@example.com
+
+# GitHub Pages settings
+baseurl: "/student-enrollment-analytics"
+url: "https://yourusername.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Analysis
+    url: /analysis/
+  - title: Visualizations
+    url: /visualizations/
+  - title: About
+    url: /about/
